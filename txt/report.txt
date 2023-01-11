@@ -1,6 +1,8 @@
-1/11/23 Logan Alldredge <loganalldredge17@gmail.com>
+1/11/23-1159 Logan Alldredge <loganalldredge17@gmail.com>
 
     (vBETA_1)
     
     *Generated basic assets for resources (starting with main page, directories, and the plain text files that will be used)
     *Created a system for logging changes and bugs (report.txt)
+    *Created a system for logging knowledge in files in flat/plain text.
+    *Created a system for accessing this archive using Github desktop, locked with SSH and GPG keys.
