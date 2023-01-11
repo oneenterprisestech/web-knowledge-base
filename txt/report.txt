@@ -1,0 +1,6 @@
+1/11/23 Logan Alldredge <loganalldredge17@gmail.com>
+
+    (vBETA_1)
+    
+    *Generated basic assets for resources (starting with main page, directories, and the plain text files that will be used)
+    *Created a system for logging changes and bugs (report.txt)
