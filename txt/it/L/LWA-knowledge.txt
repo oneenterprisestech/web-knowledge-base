@@ -1,0 +1,142 @@
+1/11/23   Logan Alldredge     <loganalldredge17@gmail.com>
+
+NOTE: This knowledge log is incomplete.
+
+  A
+  
+    -Application of thermal paste
+  
+  B
+  
+    -Beta and Testing
+    
+      *When designing a software, it is recommnded to include a testing phase that is labeled as Beta or testing.
+    
+    -Bloatware
+    
+      *
+     
+     -Backdoors and Exploits
+  
+  C
+  
+    -Controlling a system remotely
+    
+    -Code languages
+    
+    -Coding
+    
+    -Clearance levels
+    
+    -CUPS
+    
+    -Cleaning systems
+    
+    
+  
+  D
+  
+    -Documentation
+  
+      *Documenting solutions is an extremely important aspect of anything IT related.
+      *Documentation allows allows technicians to locate and apply solutions quicker than doing a web query or damaging a computer by testing a possible solution that doesn't work.
+      *Documentation is also a highly effective method of sharing ideas and solutions with colleagues and coworker.
+      
+    -Decryption
+    
+    -Debugging
+    
+    -Data protection
+    
+    -Data redundancy
+  
+  E
+  
+    -Encryption
+  
+  F
+  
+     -Firmware
+     
+     -File types and extensions
+     
+       *.txt is a file type specifically for plain text, such as this file. It's very boring, but it can be read by any system unless it is encrypted.
+  
+  G
+  
+  H
+  
+    -Hardware
+    
+    -Hypervisor
+  
+  I
+  
+  J
+  
+  K
+  
+  L
+  
+  M
+  
+    -Maintance for personal systems
+    
+    -Maintenance for servers
+    
+    -Maintenance for databases
+    
+  
+  N
+  
+    -Newer systems (Importance of maintaining a newer system)
+  
+  O
+  
+  P
+  
+    -Protecting a database
+    
+      *
+      
+    -PSUs and supplying power to a system
+    
+      *
+      
+    -Protecting a system from power surges and outages
+  
+  Q
+  
+    -
+  
+  R
+  
+  S
+  
+    -Solution implementation procedures
+    
+    -Servers
+    
+    -Stacks
+    
+    -SysAdmin
+  
+  T
+  
+    -Testing hardware
+  
+  U
+  
+  V
+  
+    -Virtualization
+  
+  W
+  
+    -Workplace standards
+  
+  X
+  
+  Y
+  
+  Z
