@@ -77,8 +77,17 @@ NOTE: This knowledge log is incomplete.
        *attrib +h makes a folder or a file hidden.
        *attrib -h removes the hidden attribute.
        *attrib +r adds a read-only attribute
-       *rmdir removes an empty directory
+       *rmdir removes an empty directory.
        *rmdir /s removes a directory in spite of having other files within a directory to be removed.
+       *xcopy /e copies all files and subdirectories within a directory, including empty directories.
+       *xcopy /s copies all files and subdirectories within a directory, however, empty directories are excluded.
+       *copy /n copies a single directory with short filenames.
+       *copy /v verifies files after a copy operation.
+       *md creats a directory or a subdirectory
+       *rd removes a directory
+       *cd changes the active directory (the directory that you are actively working in)
+       *del deletes files and directories.
+       *sfc scans the integrity of all protected system files and replaces incorrect versions with correct Microsoft versions.
   
   G
   
