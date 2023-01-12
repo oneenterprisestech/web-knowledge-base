@@ -1,6 +1,5 @@
 body { 
-  
- background: url(./attributes/img/background7.png) repeat 0 0;
+ background: url(~/attributes/img/background7.png) repeat 0 0;
  text-color: white;
    
 }
