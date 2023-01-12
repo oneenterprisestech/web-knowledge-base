@@ -88,6 +88,7 @@ NOTE: This knowledge log is incomplete.
        *cd changes the active directory (the directory that you are actively working in)
        *del deletes files and directories.
        *sfc scans the integrity of all protected system files and replaces incorrect versions with correct Microsoft versions.
+       *robocopy is used to copy entire folder structures between volumes or across a network. The benefit of using robocopy is that interrupted transfers can be               resumed.
   
   G
   
