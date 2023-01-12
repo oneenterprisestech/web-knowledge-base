@@ -5,6 +5,8 @@ NOTE: This knowledge log is incomplete.
   A
   
     -Application of thermal paste
+    
+      *Put a small dab on a CPU or a GPU and spread it with either something flat or an actual spreader. On a tower, it is recommended to put thermal paste in the            shape of an X, two both corners, then spread it around. This prevents air bubbles more than a circle of thermal paste, and is, therefore, more effecient than          putting it in a circle. On a laptop, thermal paste is applied in a thin line from one side to the other, then spread.
   
   B
   
@@ -49,6 +51,14 @@ NOTE: This knowledge log is incomplete.
     -Data protection
     
     -Data redundancy
+    
+    -Differentiation between old hardware and new hardware
+    
+    -Differentiation between types of RAM
+    
+    -Differentiation between multimedia interfaces and peripherals
+    
+    -Differentation between data bus connections and types
   
   E
   
@@ -61,6 +71,14 @@ NOTE: This knowledge log is incomplete.
      -File types and extensions
      
        *.txt is a file type specifically for plain text, such as this file. It's very boring, but it can be read by any system unless it is encrypted.
+       
+      -File and folder operations within Windows Terminal or Powershell
+      
+       *attrib +h makes a folder or a file hidden.
+       *attrib -h removes the hidden attribute.
+       *attrib +r adds a read-only attribute
+       *rmdir removes an empty directory
+       *rmdir /s removes a directory in spite of having other files within a directory to be removed.
   
   G
   
@@ -76,6 +94,10 @@ NOTE: This knowledge log is incomplete.
   
   K
   
+   -Kernels
+   
+   -Kernel-level development
+  
   L
   
   M
@@ -86,10 +108,15 @@ NOTE: This knowledge log is incomplete.
     
     -Maintenance for databases
     
+    -Methods to recover from misconfiguration
+    -Methods to remove malware
+    
   
   N
   
     -Newer systems (Importance of maintaining a newer system)
+    
+    
   
   O
   
